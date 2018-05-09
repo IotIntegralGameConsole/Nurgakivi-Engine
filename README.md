@@ -131,9 +131,17 @@ WebOS Open Source Edition - Apache License 2.0
 http://webosose.org/
 
 
-Fedora
+Fedora - BSD License
 
-Montavista
+https://getfedora.org/en/
+
+https://alt.fedoraproject.org/
+
+Montavista - Open Source by 
+
+https://www.mvista.com/
+
+https://www.yoctoproject.org/members/montavista/
 
 [IoT / Cloud]
 
