@@ -95,5 +95,13 @@ KiCad
 
 http://kicad-pcb.org/
 
+--------------------------------------
+
+[Chip Product`s Symbol and Footprint]
+
+SnapEDA
+
+https://www.snapeda.com/home/
+
 
 
