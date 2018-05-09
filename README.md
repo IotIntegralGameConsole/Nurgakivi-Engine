@@ -60,6 +60,20 @@ https://wiki.yoctoproject.org/wiki/Main_Page
 https://git.yoctoproject.org/
 
 ----------------------------------------
+OpenEmbedded
+
+https://www.openembedded.org/wiki/Main_Page
+
+http://git.openembedded.org/
+
+http://layers.openembedded.org/layerindex/branch/master/layers/
+
+----------------------------------------
+Samsung ARTIK (Open Source Hardware by enable Commercial)
+
+https://www.artik.io/
+
+----------------------------------------
 
 [Open Source VLSI Layout Tool for SoC Design]
 
@@ -73,5 +87,5 @@ http://opencircuitdesign.com/magic/
 
 http://kicad-pcb.org/
 
---------------------------------------
+
 
