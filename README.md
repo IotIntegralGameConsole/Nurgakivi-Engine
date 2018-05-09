@@ -137,7 +137,7 @@ https://getfedora.org/en/
 
 https://alt.fedoraproject.org/
 
-Montavista - Open Source by 
+Montavista - Open Source 
 
 https://www.mvista.com/
 
