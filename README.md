@@ -109,5 +109,47 @@ SnapEDA
 
 https://www.snapeda.com/home/
 
+----------------------------------------
+Support Various OS
 
+Main OS
+
+Yocto Project
+
+Else OS
+
+Tizen
+
+Tizen - Bsd 3 Clause / MIT License Version 
+
+https://www.tizen.org/bsd-3-clause-license?langredirect=1
+
+https://git.tizen.org/cgit/
+
+WebOS Open Source Edition - Apache License 2.0
+
+http://webosose.org/
+
+
+Fedora
+
+Montavista
+
+IoT / Cloud
+
+FreeRTOS - MIT License
+
+https://www.freertos.org/
+
+Amazon FreeRTOS - MIT License
+
+https://aws.amazon.com/freertos/?nc1=h_ls
+
+ARM Mbed OS - Open Source by End User License Agreement (this "EULA")
+
+https://www.mbed.com/en/
+
+Distrowatch - use BSD Linux OS 
+
+https://distrowatch.com/
 
