@@ -16,6 +16,14 @@ AMD GCN Architecture Documents(under Specification License)
 
 https://developer.amd.com/resources/developer-guides-manuals/
 
+[Resreach for Open Source SoC Design]
+
+Miaow GPU(Open Source GPU Based AMD GCN Southern Island under BSD 3 Clause)
+
+http://miaowgpu.org/
+
+https://github.com/VerticalResearchGroup/miaow
+
 AMD - Yocto
 
 https://www.yoctoproject.org/members/amd/
