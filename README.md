@@ -61,3 +61,17 @@ https://git.yoctoproject.org/
 
 ----------------------------------------
 
+[Open Source VLSI Layout Tool for SoC Design]
+
+Magic VLSI Layout Tool
+
+http://opencircuitdesign.com/magic/
+
+--------------------------------------
+
+[Open Source PCB Design Tool for PCB Design]
+
+http://kicad-pcb.org/
+
+--------------------------------------
+
