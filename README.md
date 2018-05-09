@@ -24,6 +24,8 @@ J-Core(BSD License, Old) SuperH(SH) Series by Hitachi) (Co-Processor Development
 
 http://j-core.org/
 
+*J-core is a clean-room open source processor and SOC design using the SuperH instruction set, implemented in VHDL and available royalty and patent free under a BSD license.
+
 Bootlin
 
 https://bootlin.com/
