@@ -73,6 +73,12 @@ Samsung ARTIK (Open Source Hardware by enable Commercial)
 
 https://www.artik.io/
 
+ARTIK 530 / 710 Module Symbol and Footprint
+
+https://www.snapeda.com/parts/SIP-007AFS001/Samsung/view-part/?ref=digikey (ARTIK 710 Module)
+
+https://www.snapeda.com/parts/SIP-005AFS301/Samsung%20ARTIK/view-part/ (ARTIK 530 Module)
+
 ----------------------------------------
 
 [Open Source VLSI Layout Tool for SoC Design]
@@ -84,6 +90,8 @@ http://opencircuitdesign.com/magic/
 --------------------------------------
 
 [Open Source PCB Design Tool for PCB Design]
+
+KiCad
 
 http://kicad-pcb.org/
 
