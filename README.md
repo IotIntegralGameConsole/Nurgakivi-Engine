@@ -110,13 +110,13 @@ SnapEDA
 https://www.snapeda.com/home/
 
 ----------------------------------------
-Support Various OS
+[Support Various OS]
 
-Main OS
+[Main OS]
 
-Yocto Project
+Custom OS call "Nurgakivi OS" by Yocto Project
 
-Else OS
+[Else OS]
 
 Tizen
 
@@ -135,7 +135,7 @@ Fedora
 
 Montavista
 
-IoT / Cloud
+[IoT / Cloud]
 
 FreeRTOS - MIT License
 
@@ -148,6 +148,8 @@ https://aws.amazon.com/freertos/?nc1=h_ls
 ARM Mbed OS - Open Source by End User License Agreement (this "EULA")
 
 https://www.mbed.com/en/
+
+[BSD OS]
 
 Distrowatch - use BSD Linux OS 
 
