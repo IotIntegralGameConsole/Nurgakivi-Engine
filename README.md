@@ -75,6 +75,38 @@ http://git.openembedded.org/
 http://layers.openembedded.org/layerindex/branch/master/layers/
 
 ----------------------------------------
+
+[BIOS]
+
+CoreBoot (GPL License)
+
+https://coreboot.org/downloads.html
+
+UEFI BIOS
+
+http://www.uefi.org/
+
+Grub BIOS
+
+https://www.gnu.org/software/grub/grub-download.html
+
+Tiano Core
+
+http://www.tianocore.org/
+
+Open Firmware (BSD License)
+
+http://www.firmworks.com/QuickRef.html
+
+----------------------------------------
+[Graphical User Interface(GUI) & Widjet Design]
+
+Qt (Commercial & Open Source ( GPL, LGPL) By Dual License)
+
+https://download.qt.io/official_releases/qt/
+
+----------------------------------------
+
 Samsung ARTIK (Open Source Hardware by enable Commercial)
 
 https://www.artik.io/
