@@ -3,7 +3,10 @@ Semi-Custom SoC Chipset Code Name "Nurgakivi"
 That will develop Main Custom SoC(System on Chip) of Integral Game Console based RISC-V and AMD GCN(Under BSD / MIT license)
 
 RISC-V "P" Standard(Packed SIMD Extension)
+
 http://www-inst.eecs.berkeley.edu/~cs250/fa13/handouts/riscv-spec.pdf
+
+https://github.com/riscv/riscv-isa-manual/blob/master/src/p.tex
 
 We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC based in RISC-V / SiFive(BSD License), ODD(CD, DVD, Blu-ray etc)(undecided) with MCU Board like Raspberry-Pi(Test), Samsung Artik(Commercial Open Source Hardware) etc
 
