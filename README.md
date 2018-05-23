@@ -25,6 +25,12 @@ RISC-V: https://riscv.org/
 
 SiFive: https://www.sifive.com/
 
+FPGA for Test
+
+Microsemi: https://www.microsemi.com/
+
+Future Electronics: http://www.FutureElectronics.com
+
 GPU
 
 AMD GCN Architecture Documents(under Specification License)
