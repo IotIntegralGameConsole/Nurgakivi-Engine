@@ -225,6 +225,19 @@ https://www.mvista.com/
 
 https://www.yoctoproject.org/members/montavista/
 
+FreeBSD - BSD License
+
+https://www.freebsd.org/
+
+https://wiki.freebsd.org/FrontPage
+
+
+Debian - Debian Free Software Guidelines (DFSG) and compatible licenses
+
+https://www.debian.org/
+
+https://wiki.debian.org/FrontPage
+
 [IoT / Cloud]
 
 FreeRTOS - MIT License
