@@ -1,4 +1,13 @@
 # Nurgakivi-Engine
+
+"Integral Dev-Kit" / "Integral" Video Game Console / "Iinnexxyy Arcade Machine" (Common) Semi-Custom SoC(System on A Chip)
+
+Chipset Code Name "Nurgakivi" & Chipset Name "Nurgakivi Engine"
+ 
+Nurgakivi Engine ™ / ® by Nurgakivi Lab., Estonia
+
+This powered by BSD-3 Clause / MIT License Version Licensed 2018
+
 Semi-Custom SoC Chipset Code Name "Nurgakivi"
 That will develop Main Custom SoC(System on Chip) of Integral Game Console based RISC-V and AMD GCN(Under BSD / MIT license)
 
