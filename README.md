@@ -160,6 +160,10 @@ KiCad
 
 http://kicad-pcb.org/
 
+KiCad Libraries
+
+https://kicad.github.io/
+
 --------------------------------------
 
 [Chip Product`s Symbol and Footprint]
