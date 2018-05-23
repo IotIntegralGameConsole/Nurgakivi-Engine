@@ -4,7 +4,7 @@
 
 Chipset Code Name "Nurgakivi" & Chipset Name "Nurgakivi Engine"
  
-Nurgakivi Engine ™ / ® by Nurgakivi Lab., Estonia
+Nurgakivi Engine ™ ® by Nurgakivi Lab., Estonia
 
 This powered by BSD-3 Clause / MIT License Version Licensed 2018
 
