@@ -120,9 +120,15 @@ Open Firmware (BSD License)
 http://www.firmworks.com/QuickRef.html
 
 ----------------------------------------
-[Graphical User Interface(GUI) & Widjet Design]
+["CUXML(Circle User Experience Media Layer)" Graphical User Interface(GUI) & Widjet Design]
 
 Qt (Commercial & Open Source ( GPL, LGPL) By Dual License)
+
+https://www.qt.io/
+
+https://wiki.qt.io/Main
+
+https://github.com/qt
 
 https://download.qt.io/official_releases/qt/
 
