@@ -132,6 +132,8 @@ https://wiki.qt.io/Main
 
 https://github.com/qt
 
+http://code.qt.io/cgit/
+
 https://download.qt.io/official_releases/qt/
 
 ----------------------------------------
