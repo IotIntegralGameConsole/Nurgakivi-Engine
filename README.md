@@ -79,6 +79,17 @@ Linux Driver Source Test - Bootlin
 https://elixir.bootlin.com/linux/v4.17-rc4/source/drivers/video/hdmi.c
 
 ----------------------------------------------
+[SoC Design Tool]
+
+Logisim Officials Website (GPL License 3)
+
+http://www.cburch.com/logisim/
+
+Logisim Evolution - GitHub
+
+https://github.com/reds-heig/logisim-evolution
+
+----------------------------------------------
 
 **We follow Yocto Project
 
