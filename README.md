@@ -153,11 +153,27 @@ Samsung ARTIK (Open Source Hardware by enable Commercial)
 
 https://www.artik.io/
 
-ARTIK 530 / 710 Module Symbol and Footprint
+ARTIK 530 / 710 Module Symbol and (BGA)Footprint
 
 https://www.snapeda.com/parts/SIP-007AFS001/Samsung/view-part/?ref=digikey (ARTIK 710 Module)
 
 https://www.snapeda.com/parts/SIP-005AFS301/Samsung%20ARTIK/view-part/ (ARTIK 530 Module)
+
+
+ARTIK 1020(test) Module Connector Symbol and Footprint
+
+AXT340224
+
+AXT3(P4S) Socket (0.4mm pitch, 40-pin, Ni-barrier) (RoHS conforming)
+
+https://www.snapeda.com/parts/AXT340224/Panasonic/view-part/?ref=digikey
+
+
+AXT380224
+
+AXT3(P4S) Socket (0.4mm pitch, 80-pin, Ni-barrier) (RoHS conforming)
+
+https://www.snapeda.com/parts/AXT380224/Panasonic/view-part/?ref=digikey
 
 ----------------------------------------
 
