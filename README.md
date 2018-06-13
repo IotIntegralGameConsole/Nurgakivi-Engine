@@ -153,6 +153,10 @@ Samsung ARTIK (Open Source Hardware by enable Commercial)
 
 https://www.artik.io/
 
+ARTIK Developer`s Documentation
+
+https://developer.artik.io/documentation/
+
 ARTIK 530 / 710 Module Symbol and (BGA)Footprint
 
 https://www.snapeda.com/parts/SIP-007AFS001/Samsung/view-part/?ref=digikey (ARTIK 710 Module)
