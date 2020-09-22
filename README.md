@@ -24,6 +24,8 @@ RTL Design Language
 
 CHISEL3 / FIRRTL: https://www.chisel-lang.org/
 
+Github: https://github.com/freechipsproject/chisel3
+
 ----------------------------------------
 
 IDE 
