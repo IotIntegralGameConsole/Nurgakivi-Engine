@@ -28,6 +28,20 @@ Github: https://github.com/freechipsproject/chisel3
 
 ----------------------------------------
 
+RTL Layout 
+
+Electric VLSI: https://www.staticfreesoft.com/
+
+Magic VLSI: http://opencircuitdesign.com/magic/
+
+----------------------------------------
+
+Electric VLSI Layout Sample(Test) Designs
+
+Github: https://github.com/byungwoo733/Electric_VLSI_files
+
+----------------------------------------
+
 IDE 
 
 Visual Studio Code / SiFive Freedom Studio / Eclipse
