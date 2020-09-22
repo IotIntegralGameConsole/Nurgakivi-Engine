@@ -19,6 +19,19 @@ https://github.com/riscv/riscv-isa-manual/blob/master/src/p.tex
 
 We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC based in RISC-V / SiFive(BSD License), ODD(CD, DVD, Blu-ray etc)(undecided) with MCU Board like Raspberry-Pi(Test), Samsung Artik(Commercial Open Source Hardware) etc
 
+----------------------------------------
+RTL Design Language
+
+CHISEL3 / FIRRTL: https://www.chisel-lang.org/
+
+----------------------------------------
+
+IDE 
+
+Visual Studio Code / SiFive Freedom Studio / Eclipse
+
+----------------------------------------
+
 CPU
 
 RISC-V: https://riscv.org/
