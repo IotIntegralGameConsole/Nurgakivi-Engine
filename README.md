@@ -11,7 +11,9 @@ This powered by BSD-3 Clause / MIT License Version Licensed 2018
 Semi-Custom SoC Chipset Code Name "Nurgakivi"
 That will develop Main Custom SoC(System on Chip) of Integral Game Console based RISC-V and AMD GCN(Under BSD / MIT license)
 
-RISC-V "P" Standard(Packed SIMD Extension)
+RISC-V "V" Extension, "P" Standard(Packed SIMD Extension)
+
+https://riscv.github.io/documents/riscv-v-spec/#_vector_indexed_instructions
 
 http://www-inst.eecs.berkeley.edu/~cs250/fa13/handouts/riscv-spec.pdf
 
