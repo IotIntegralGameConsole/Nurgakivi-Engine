@@ -25,7 +25,7 @@ We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC
 
 [SiFive] Nurgakivi-Engine SoC (SiFive Custom Freedom SoC + Custom Miaow GPU) - Commercial Version (Consideration)
 
-ex) U7 Core Concept (8 Cores)
+ex) U7 Core Concept Goal Design (8 Cores)
 
 ![Nurgakivi_Engine](https://user-images.githubusercontent.com/25099776/100535708-a87cd500-325e-11eb-90ee-7514b798b5b3.png)
 
