@@ -27,6 +27,7 @@ We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC
 
 [RISC-V] Nurgakivi-Engine SoC (Custom Rocket Chip + Miaow GPU) - Open Source Project
 
+(Preparing...)
 
 ----------------------------------------
 RTL Design Language
@@ -181,6 +182,17 @@ https://oshpark.com/
 [DIY BGA Chip Stencil BY Open Source Hardware]
 
 https://www.oshstencils.com/
+
+--------------------------------------
+[Hardware Test Kit Assembly Stores]
+
+Chip Quik
+
+https://www.chipquik.com/
+
+Proto Advantage
+
+https://www.proto-advantage.com/
 
 --------------------------------------
 
