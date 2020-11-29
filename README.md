@@ -19,6 +19,15 @@ https://github.com/riscv/riscv-isa-manual/blob/master/src/p.tex
 
 We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC based in RISC-V / SiFive(BSD License), ODD(CD, DVD, Blu-ray etc)(undecided) with MCU Board like Raspberry-Pi(Test), Samsung Artik(Commercial Open Source Hardware) etc
 
+
+[SiFive] Nurgakivi-Engine SoC (SiFive Custom Freedom SoC + Miaow GPU) - Commercial
+
+![Nurgakivi_Engine](https://user-images.githubusercontent.com/25099776/100535221-53d75b00-325a-11eb-93b5-33e6d3d20370.png)
+
+
+[RISC-V] Nurgakivi-Engine SoC (Custom Rocket Chip + Miaow GPU) - Open Source Project
+
+
 ----------------------------------------
 RTL Design Language
 
@@ -75,6 +84,24 @@ Miaow GPU(Open Source GPU Based AMD GCN Southern Island under BSD 3 Clause)
 http://miaowgpu.org/
 
 https://github.com/VerticalResearchGroup/miaow
+
+GPU Debugger
+
+AMD CodeXL (MIT License)
+
+https://github.com/GPUOpen-Archive/CodeXL
+
+RenderDoc (MIT License)
+
+https://renderdoc.org/
+
+Mesa3D (Mesa)
+
+https://www.mesa3d.org/
+
+https://github.com/mesa3d/mesa
+
+https://gitlab.freedesktop.org/mesa/mesa
 
 AMD - Yocto
 
