@@ -1,5 +1,10 @@
 # Nurgakivi-Engine
 
+![Codename_Nurgakivi_Logo](https://user-images.githubusercontent.com/25099776/100541891-43d76f80-328a-11eb-82bf-9813b55a7225.png)
+
+![Nurgakivi_Engine_logo](https://user-images.githubusercontent.com/25099776/100541899-4fc33180-328a-11eb-9ec8-699c80e56226.png)
+
+
 "Integral Dev-Kit" / "Integral" Video Game Console / "Iinnexxyy Arcade Machine" (Common) Semi-Custom SoC(System on A Chip)
 
 Chipset Code Name "Nurgakivi" & Chipset Name "Nurgakivi Engine"
