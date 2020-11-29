@@ -97,13 +97,18 @@ RenderDoc (MIT License)
 
 https://renderdoc.org/
 
-Mesa3D (Mesa)
+----------------------------------
+Mesa 3D Graphics Library (Open source implementations of OpenGL, OpenGL ES, Vulkan, OpenCL)
+
+Mesa3D (Mesa) (MIT License)
 
 https://www.mesa3d.org/
 
 https://github.com/mesa3d/mesa
 
 https://gitlab.freedesktop.org/mesa/mesa
+
+----------------------------------
 
 AMD - Yocto
 
