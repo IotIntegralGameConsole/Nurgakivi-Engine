@@ -22,7 +22,7 @@ We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC
 
 [SiFive] Nurgakivi-Engine SoC (SiFive Custom Freedom SoC + Miaow GPU) - Commercial
 
-![Nurgakivi_Engine](https://user-images.githubusercontent.com/25099776/100535221-53d75b00-325a-11eb-93b5-33e6d3d20370.png)
+
 
 
 [RISC-V] Nurgakivi-Engine SoC (Custom Rocket Chip + Miaow GPU) - Open Source Project
