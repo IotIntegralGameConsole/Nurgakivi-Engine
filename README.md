@@ -90,6 +90,8 @@ http://miaowgpu.org/
 
 https://github.com/VerticalResearchGroup/miaow
 
+----------------------------------------
+
 GPU Debugger
 
 AMD CodeXL (MIT License)
