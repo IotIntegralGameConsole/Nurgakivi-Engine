@@ -108,6 +108,13 @@ RenderDoc (MIT License)
 https://renderdoc.org/
 
 ----------------------------------
+SoC Simulator
+
+QEMU System Emulator for SiFive's Freedom Platform
+
+https://github.com/sifive/freedom-qemu
+
+----------------------------------
 Mesa 3D Graphics Library (Open source implementations of OpenGL, OpenGL ES, Vulkan, OpenCL)
 
 Mesa3D (Mesa) (MIT License)
@@ -117,6 +124,20 @@ https://www.mesa3d.org/
 https://github.com/mesa3d/mesa
 
 https://gitlab.freedesktop.org/mesa/mesa
+
+----------------------------------
+Memory Simulator
+
+Ramulator (DDRx, LPDDRx, GDDRx, WIOx, HBMx Simulator) (MIT License)
+
+https://github.com/CMU-SAFARI/ramulator
+
+----------------------------------
+BD-J(Blu-ray Java) Bluray Library (LGPLv2.1)
+
+VideoLan libbluray
+
+https://code.videolan.org/videolan/libbluray
 
 ----------------------------------
 
