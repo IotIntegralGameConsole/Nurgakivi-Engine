@@ -81,6 +81,14 @@ Microsemi: https://www.microsemi.com/
 
 Future Electronics: http://www.FutureElectronics.com
 
+----------------------------------------
+
+meta-riscv / BSP (OpenEmbedded/Yocto layer for RISC-V Architecture)
+
+https://github.com/riscv/meta-riscv
+
+----------------------------------------
+
 GPU
 
 AMD GCN Architecture Documents(under Specification License)
