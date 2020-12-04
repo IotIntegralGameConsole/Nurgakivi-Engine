@@ -115,6 +115,13 @@ RenderDoc (MIT License)
 
 https://renderdoc.org/
 
+----------------------------------------
+GPU Simulator
+
+Multi2Sim (GPL-3.0 License)
+
+https://github.com/Multi2Sim/multi2sim
+
 ----------------------------------
 SoC Simulator
 
