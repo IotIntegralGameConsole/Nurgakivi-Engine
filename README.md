@@ -14,7 +14,7 @@ Nurgakivi Engine ™ ® by Nurgakivi Lab., Estonia
 This powered by BSD-3 Clause / MIT License Version Licensed 2018
 
 Semi-Custom SoC Chipset Code Name "Nurgakivi"
-That will develop Main Custom SoC(System on Chip) of Integral Game Console based RISC-V and AMD GCN(Under BSD / MIT license)
+That will develop Main SiFive 64-bit Custom / (Baremetal-riscv64) 64-bit Custom SoC(System on Chip) of Integral Game Console based RISC-V and AMD GCN(Under BSD / MIT license)
 (* "Nurgakivi Engine" Family Series Product will get a name for Each Series / Projects. This is for Video Game Part Project)  
 
 RISC-V "V" Extension, "P" Standard(Packed SIMD Extension)
@@ -28,13 +28,13 @@ https://github.com/riscv/riscv-isa-manual/blob/master/src/p.tex
 We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC based in RISC-V / SiFive(BSD License), ODD(CD, DVD, Blu-ray etc)(undecided) with MCU Board like Raspberry-Pi(Test) etc
 
 
-# [SiFive] Nurgakivi-Engine SoC (SiFive Custom Freedom SoC + Custom Miaow GPU) - Commercial Version (Consideration)
+# [SiFive] Nurgakivi-Engine SoC (SiFive 64-bit Custom Freedom SoC + Custom Miaow GPU) - Commercial Version (Consideration)
 
 ex) U7 Core Concept Goal Design (8 Cores)
 
 ![Nurgakivi_Engine](https://user-images.githubusercontent.com/25099776/100537213-cd2a7a00-3269-11eb-9cb0-3c75219c24a2.png)
 
-# [RISC-V] Nurgakivi-Engine SoC (Custom Rocket Chip + Miaow GPU) - Open Source Project
+# [RISC-V] Nurgakivi-Engine SoC [(Baremetal-riscv64) 64-bit Custom Rocket Chip + Miaow GPU)] - Open Source Project
 
 (Preparing...)
 
