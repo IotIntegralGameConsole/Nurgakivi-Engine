@@ -122,6 +122,11 @@ QEMU System Emulator for SiFive's Freedom Platform
 
 https://github.com/sifive/freedom-qemu
 
+
+RV8 (RISC-V simulator for x86-64) (MIT License)
+
+https://github.com/rv8-io/rv8
+
 ----------------------------------
 Mesa 3D Graphics Library (Open source implementations of OpenGL, OpenGL ES, Vulkan, OpenCL)
 
