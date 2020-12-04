@@ -14,7 +14,7 @@ Nurgakivi Engine ™ ® by Nurgakivi Lab., Estonia
 This powered by BSD-3 Clause / MIT License Version Licensed 2018
 
 Semi-Custom SoC Chipset Code Name "Nurgakivi"
-That will develop Main SiFive 64-bit Custom / (Baremetal-riscv64) 64-bit Custom SoC(System on Chip) of Integral Game Console based RISC-V and AMD GCN(Under BSD / MIT license)
+That will develop Main [Commercial] SiFive 64-bit Custom SoC (System on Chip) / [Open Source] (Baremetal-riscv64) 64-bit Custom SoC (System on Chip) of Integral Game Console based RISC-V and AMD GCN(Under BSD / MIT license)
 (* "Nurgakivi Engine" Family Series Product will get a name for Each Series / Projects. This is for Video Game Part Project)  
 
 RISC-V "V" Extension, "P" Standard(Packed SIMD Extension)
