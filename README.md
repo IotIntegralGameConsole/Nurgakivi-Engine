@@ -83,6 +83,12 @@ Future Electronics: http://www.FutureElectronics.com
 
 ----------------------------------------
 
+BSP (Board Support Package)
+
+SiFive OpenEmbedded (OE) Layer
+
+https://github.com/sifive/meta-sifive
+
 meta-riscv / BSP (OpenEmbedded/Yocto layer for RISC-V Architecture)
 
 https://github.com/riscv/meta-riscv
