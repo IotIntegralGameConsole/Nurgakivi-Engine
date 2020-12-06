@@ -45,6 +45,10 @@ CHISEL3 / FIRRTL: https://www.chisel-lang.org/
 
 Github: https://github.com/freechipsproject/chisel3
 
+Scala Standard Library
+
+https://www.scala-lang.org/api/2.12.12/index.html
+
 ----------------------------------------
 
 RTL Layout 
