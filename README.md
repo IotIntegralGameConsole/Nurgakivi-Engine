@@ -49,6 +49,10 @@ Scala Standard Library
 
 https://www.scala-lang.org/api/2.12.12/index.html
 
+Chipyard’s documentation
+
+https://chipyard.readthedocs.io/en/dev/index.html
+
 ----------------------------------------
 
 RTL Layout 
