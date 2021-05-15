@@ -71,7 +71,7 @@ Github: https://github.com/byungwoo733/Electric_VLSI_files
 
 IDE 
 
-Visual Studio Code / SiFive Freedom Studio / Eclipse
+Visual Studio Code / SiFive Freedom Studio / Eclipse / Code::Blocks 17.12
 
 ----------------------------------------
 
