@@ -53,6 +53,11 @@ Chipyard’s documentation
 
 https://chipyard.readthedocs.io/en/dev/index.html
 
+
+OpenCL Reference Pages
+
+https://www.khronos.org/registry/OpenCL/sdk/2.0/docs/man/xhtml/
+
 ----------------------------------------
 
 RTL Layout 
