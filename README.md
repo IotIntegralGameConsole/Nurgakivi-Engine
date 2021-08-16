@@ -76,6 +76,12 @@ Github: https://github.com/byungwoo733/Electric_VLSI_files
 
 IDE 
 
+RTL Tool
+
+EDA Playground:
+
+https://www.edaplayground.com/
+
 Visual Studio Code / SiFive Freedom Studio / Eclipse / Code::Blocks 17.12
 
 ----------------------------------------
@@ -137,11 +143,13 @@ https://github.com/VerticalResearchGroup/miaow
 
 ----------------------------------------
 
-GPU Debugger
+GPU Debugger / GLSL, HLSL, Debugger Tools
 
 AMD CodeXL (MIT License)
 
 https://github.com/GPUOpen-Archive/CodeXL
+
+AMD RenderMonkey 
 
 RenderDoc (MIT License)
 
