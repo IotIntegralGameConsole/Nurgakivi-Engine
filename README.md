@@ -82,6 +82,10 @@ EDA Playground:
 
 https://www.edaplayground.com/
 
+Metals (Scala language server with rich IDE features)
+
+https://scalameta.org/metals/
+
 Visual Studio Code / SiFive Freedom Studio / Eclipse / Code::Blocks 17.12
 
 ----------------------------------------
