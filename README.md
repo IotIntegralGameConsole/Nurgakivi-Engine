@@ -196,6 +196,12 @@ https://github.com/mesa3d/mesa
 https://gitlab.freedesktop.org/mesa/mesa
 
 ----------------------------------
+
+The Linux Kernel documentation
+
+https://www.kernel.org/doc/html/latest/index.html
+
+----------------------------------
 Memory Simulator
 
 Ramulator (DDRx, LPDDRx, GDDRx, WIOx, HBMx Simulator) (MIT License)
