@@ -27,10 +27,6 @@ https://github.com/riscv/riscv-p-spec/blob/master/P-ext-proposal.adoc
 
 https://github.com/riscv/riscv-v-spec/blob/master/v-spec.adoc#vector-unit-stride-instructions
 
-http://www-inst.eecs.berkeley.edu/~cs250/fa13/handouts/riscv-spec.pdf
-
-https://github.com/riscv/riscv-isa-manual/blob/master/src/p.tex
-
 We will develop the Main Custom CPU/GPU(Based in AMD GCN)(Include Miaow GPU) SoC based in RISC-V / SiFive(BSD License), ODD(CD, DVD, Blu-ray etc)(undecided) with MCU Board like Raspberry-Pi(Test) etc
 
 
