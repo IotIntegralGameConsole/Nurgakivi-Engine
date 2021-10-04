@@ -19,7 +19,13 @@ That will develop Main [Commercial] SiFive 64-bit Custom SoC (System on Chip) / 
 
 RISC-V "V" Extension, "P" Standard(Packed SIMD Extension)
 
-https://riscv.github.io/documents/riscv-v-spec/#_vector_indexed_instructions
+[Github] RISC-V "P" Extension Proposal
+
+https://github.com/riscv/riscv-p-spec/blob/master/P-ext-proposal.adoc
+
+[Github] RISC-V "V" Vector Extension
+
+https://github.com/riscv/riscv-v-spec/blob/master/v-spec.adoc#vector-unit-stride-instructions
 
 http://www-inst.eecs.berkeley.edu/~cs250/fa13/handouts/riscv-spec.pdf
 
