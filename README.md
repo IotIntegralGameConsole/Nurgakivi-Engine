@@ -45,6 +45,10 @@ RTL Design Language
 
 CHISEL3 / FIRRTL: https://www.chisel-lang.org/
 
+Chisel3 Cookbook Document:
+
+https://www.chisel-lang.org/chisel3/docs/introduction.html
+
 Github: https://github.com/freechipsproject/chisel3
 
 Scala Standard Library
