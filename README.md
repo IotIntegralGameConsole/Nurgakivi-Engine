@@ -276,7 +276,7 @@ http://www.firmworks.com/QuickRef.html
 
 KiCad
 
-http://kicad-pcb.org/
+http://kicad.org/
 
 KiCad Libraries
 
